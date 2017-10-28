@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  rgb.cpp
+c:\opencv3.1.0\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\opencv3.1.0\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\opencv3.1.0\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\opencv3.1.0\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  capstone.cpp
+  正在生成代码...
+  capstone.vcxproj -> C:\Users\mai kuraki\Documents\Visual Studio 2015\Projects\capstone\x64\Debug\capstone.exe
+  capstone.vcxproj -> C:\Users\mai kuraki\Documents\Visual Studio 2015\Projects\capstone\x64\Debug\capstone.pdb (Full PDB)
